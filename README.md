@@ -59,7 +59,7 @@ Currently, I'm studying for a master's degree at [ITMO University][itmo] in Syst
 
 ### 📈 GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artimary&layout=compact&theme=radical)](https://github.com/Artimary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artimary)](https://github.com/Artimary)
 
 
 <!-- Links -->
