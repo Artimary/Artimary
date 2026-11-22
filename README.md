@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Anton Popov
 I'm a passionate software engineer who strives to create cool projects to solve real problems. 
 <br/>
-Currently, I'm studying for a master's degree at [ITMO University][itmo] in System and Applied Software.
+Master's degree at [ITMO University][itmo] in System and Applied Software.
 
 ### 🌱 I’m currently learning 
 - Microservice architecture
